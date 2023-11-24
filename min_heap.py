@@ -260,4 +260,3 @@ def _percolate_down(da: DynamicArray, parent: int) -> None:
     TODO: Write your implementation
     """
     pass
-
